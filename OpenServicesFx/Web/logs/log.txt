@@ -1,0 +1,55 @@
+INFO  2016-04-19 20:18:54,065 20395ms Log4NetLoggerService   LogInfo            - ValuesService.GetAllItems
+SessionIdentifier: 4190506a-d299-4de7-bed7-6ed4faaddb1c
+ClientAppKey: 
+Identity: 
+Message: Retrieving all values
+INFO  2016-04-19 20:34:49,176 975506ms Log4NetLoggerService   LogInfo            - ValuesService.GetItemById
+SessionIdentifier: 623caeb5-5363-4056-9165-c37bba36b43b
+ClientAppKey: 
+Identity: 
+Message: Retrieving value with id 2
+INFO  2016-04-19 20:37:14,324 1120654ms Log4NetLoggerService   LogInfo            - ValuesService.GetItemById
+SessionIdentifier: caa2912a-9b4a-41ba-b4c4-6f15c80260c2
+ClientAppKey: 
+Identity: 
+Message: Retrieving value with id 2
+INFO  2016-04-19 20:38:25,963 18593ms Log4NetLoggerService   LogInfo            - ValuesService.GetItemById
+SessionIdentifier: 6c0caf5f-df79-4da3-b56c-17fd45bed8cb
+ClientAppKey: 
+Identity: 
+Message: Retrieving value with id 2
+INFO  2016-04-19 20:38:33,719 26349ms Log4NetLoggerService   LogInfo            - ValuesService.GetItemById
+SessionIdentifier: 3c883bab-8d96-486f-9848-8201faf50177
+ClientAppKey: 
+Identity: 
+Message: Retrieving value with id 4444
+INFO  2016-04-26 19:00:31,372 18286ms Log4NetLoggerService   LogInfo            - ValuesService.GetAllItems
+SessionIdentifier: 002bd14e-f26f-494a-b519-6861b0f595d6
+ClientAppKey: 
+Identity: 
+Message: Retrieving all values
+INFO  2016-04-26 20:52:00,642 11596ms Log4NetLoggerService   LogInfo            - ValuesService.GetAllItems
+SessionIdentifier: e15eac55-2954-4b46-ae79-32fd8e0f50c8
+ClientAppKey: 
+Identity: 
+Message: Retrieving all values
+INFO  2016-04-26 20:52:08,118 19072ms Log4NetLoggerService   LogInfo            - ValuesService.GetItemById
+SessionIdentifier: 99f200be-bf69-4d49-9e30-38adc6dd6678
+ClientAppKey: 
+Identity: 
+Message: Retrieving value with id 77
+INFO  2016-04-28 18:10:56,494 17237ms Log4NetLoggerService   LogInfo            - ValuesService.GetAllItems
+SessionIdentifier: 8599b252-f5d7-4946-b047-73e74d04179b
+ClientAppKey: 
+Identity: 
+Message: Retrieving all values
+INFO  2016-04-28 18:17:08,129 388872ms Log4NetLoggerService   LogInfo            - ValuesService.GetItemById
+SessionIdentifier: fc5834a7-d9e2-4ccb-8113-a321af711c1e
+ClientAppKey: 
+Identity: 
+Message: Retrieving value with id 99
+INFO  2016-04-28 18:17:14,087 394831ms Log4NetLoggerService   LogInfo            - ValuesService.GetItemById
+SessionIdentifier: 56a11d1a-fa65-4b80-9016-fff0207c2c3c
+ClientAppKey: 
+Identity: 
+Message: Retrieving value with id 2
